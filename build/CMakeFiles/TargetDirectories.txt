@@ -1,0 +1,3 @@
+/home/nik/src/lesson4/categorizer/build/CMakeFiles/rebuild_cache.dir
+/home/nik/src/lesson4/categorizer/build/CMakeFiles/edit_cache.dir
+/home/nik/src/lesson4/categorizer/build/CMakeFiles/categorizer.dir
